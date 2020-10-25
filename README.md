@@ -11,7 +11,7 @@ Please install the following dependencies first:
   pip install seaborn
  ```
   
-3)Make sure you have the AWS dataset in the program directory:
-  Download from https://www.kaggle.com/casimian2000/aws-honeypot-attack-data
+3)Although I have included the dataset in the repositroy, you can download it from:
+```https://www.kaggle.com/casimian2000/aws-honeypot-attack-data```
 
-4) To run the program, simple open CMD or terminal-->navigate to program directory-->python main.py
+4) To run the program, simple open CMD or terminal-->navigate to program directory-->```python main.py```
