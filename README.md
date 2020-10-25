@@ -1,6 +1,6 @@
 # AWS-Honeypot-Data-Analysis-Visualization-Tool
 
-
+![GUI Image](https://github.com/sahoo8920/AWS-Honeypot-Data-Analysis-Visualization-Tool/blob/main/gui_image.PNG)
 
 Welcome to the AWS-Honeypot-Data-Analysis-Visualization-Tool. 
 
