@@ -18,7 +18,9 @@ Please install the following dependencies first:
   pip install seaborn
  ```
   
-3)Although I have included the dataset in the repositroy, you can download it from:
+3)Although I have included the dataset as .rar in the repository, you can download it from:
 ```https://www.kaggle.com/casimian2000/aws-honeypot-attack-data```
 
-4) To run the program, simple open CMD or terminal-->navigate to program directory-->```python main.py```
+4) To run the program, clone the repository.  
+
+5) Simply open CMD or terminal-->navigate to program directory-->```python main.py```
