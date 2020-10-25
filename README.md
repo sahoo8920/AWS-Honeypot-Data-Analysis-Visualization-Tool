@@ -2,6 +2,9 @@
 
 ![alt text](https://github.com/sahoo8920/AWS-Honeypot-Data-Analysis-Visualization-Tool/blob/main/screenshot.PNG)
 
+Welcome to the AWS-Honeypot-Data-Analysis-Visualization-Tool. 
+
+The tool is a GUI based tool that allows the user to query and visualize AWS Honeypot data. 
 
 ## Usage
 Please install the following dependencies first:
